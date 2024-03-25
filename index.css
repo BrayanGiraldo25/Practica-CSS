@@ -1,0 +1,75 @@
+#Titulo {
+    color: rgb(18, 141, 2);
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
+
+
+img {
+    
+    padding-left: 27%;
+    height: 450px;
+    width: 600px;
+}
+
+.Sub-titulo {
+    font-size: 25px;
+    color: white;
+    padding-left: 5%;
+}
+
+.Explicacion {
+    color: white;
+    font-size: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 0%
+}
+
+.Pero {
+    color: white;
+    font-size: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 0%;
+}
+
+.Final {
+    color: white;
+    font-size: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 0%;
+}
+
+.Jefe {
+    color: red;
+    font-size: 40px;
+    padding-left: 30%
+}
+
+.Final-Feliz {
+    color: white;
+    font-size: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 0%;
+}
+
+.nose {
+    color: green;
+    font-size: 40px;
+    padding-left: 43%;
+}
+
+.ayuda {
+    color: white;
+    font-size: 100px;
+    font-family: sans-serif;
+}
+
+
+
